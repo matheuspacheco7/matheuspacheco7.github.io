@@ -1,0 +1,18 @@
+header {
+    background-color: #3a415a;
+}
+
+body {
+    background-color: #cbdad5;
+}
+
+h1 {
+    color: #cbdad5;
+    font-size: 40px;
+    font-family: "Fira-Code";
+}
+
+a {
+    color: #89a7b1;
+    font-size: 20px;
+}
