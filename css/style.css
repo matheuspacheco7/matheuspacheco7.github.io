@@ -51,7 +51,8 @@ a:before {
 
 #button-download {
     display: inline-block;
-    background-color: #566981;
+    background-color: aqua;
+    color: #000;
     height: 50px;
     line-height: 50px;
     padding-left: 20px;
@@ -60,12 +61,21 @@ a:before {
     border-radius: 15px;
     box-shadow: 5px 5px 4px #000;
     margin-right: 0;
+    transition: transform 100ms linear
 
 }
 
-span {
-    background-color: aqua; 
-    width: 10px;
-    height: 10px;
-    margin-right: 10px;
+#button-download:hover {
+    transform: scale(1.07);
+    background-color: rgba(0, 255, 255, 0.685);
+}
+
+#title {
+    font-family: 'Alfa Slab One', sans-serif;
+    color: aqua;
+}
+
+#sub-title {
+    font-family: 'Alfa Slab One', sans-serif;
+    text-shadow: 3px 3px 5px rgb(102, 100, 100);
 }
