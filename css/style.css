@@ -70,11 +70,6 @@ a:before {
     background-color: rgba(0, 255, 255, 0.685);
 }
 
-#title {
-    font-family: 'Alfa Slab One', sans-serif;
-    color: aqua;
-}
-
 #sub-title {
     font-family: 'Alfa Slab One', sans-serif;
     text-shadow: 3px 3px 5px rgb(102, 100, 100);
