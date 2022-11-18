@@ -10,11 +10,14 @@
     border-radius: 15px;
     box-shadow: 5px 5px 4px #000;
     margin-right: 0;
-    transition: transform 100ms linear
+    transition: transform 100ms linear;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Fira Code", sans-serif;
 
 }
 
-.button {
+.button-header:hover {
     transform: scale(1.07);
     background-color: rgba(0, 255, 255, 0.685);
 } 
@@ -33,11 +36,14 @@
     margin-right: 0;
     margin-top: 80px;
     margin: 75px;
-    transition: transform 100ms linear
+    transition: transform 100ms linear;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Fira Code", sans-serif;
 
 }
 
-.button {
+.button:hover {
     transform: scale(1.07);
     background-color: rgba(0, 255, 255, 0.685);
 }

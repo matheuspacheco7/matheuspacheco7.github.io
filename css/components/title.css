@@ -1,5 +1,9 @@
-#title {
+.title {
     font-family: 'Alfa Slab One', sans-serif;
     color: aqua;
     text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+    padding-top: 15px;
+    text-shadow: 5px 5px 3px #000;
 }

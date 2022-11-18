@@ -1,4 +1,4 @@
-#box {
+.box {
     background-color: #515856;
     width: 630px;
     box-shadow: 10px 10px 5px;
@@ -8,10 +8,10 @@
     
 }
 
-#box h1 {
+.box .title {
     margin-bottom: 28px;
 }
 
-#box h2 {
+.box .sub-title {
     margin-right: 80px;
 }
