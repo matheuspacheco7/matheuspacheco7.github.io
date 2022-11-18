@@ -1,0 +1,44 @@
+.button-header {
+    display: inline-block;
+    background-color: aqua;
+    color: #000;
+    height: 50px;
+    line-height: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding: 18px 20px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 4px #000;
+    margin-right: 0;
+    transition: transform 100ms linear
+
+}
+
+.button {
+    transform: scale(1.07);
+    background-color: rgba(0, 255, 255, 0.685);
+} 
+
+.button {
+    display: inline-block;
+    background-color: aqua;
+    color: #000;
+    height: 50px;
+    line-height: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding: 18px 20px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 4px #000;
+    margin-right: 0;
+    margin-top: 80px;
+    margin: 75px;
+    transition: transform 100ms linear
+
+}
+
+.button {
+    transform: scale(1.07);
+    background-color: rgba(0, 255, 255, 0.685);
+}
+
