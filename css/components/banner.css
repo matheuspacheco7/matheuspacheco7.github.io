@@ -1,9 +1,9 @@
 .banner {
     background-image: url(../../assets/img/constru5.png);
     background-repeat: no-repeat;
-    background-size: 120%;
-    height: 670px;
+    background-size: 140%;
+    height: 660px;
     padding: 1px;
+    padding-top: -10px;
     border-bottom: 10px solid yellow;
-
 }

@@ -1,11 +1,12 @@
 .box {
-    background-color: #515856;
+    background-color: #e0b4b423;
     width: 630px;
     box-shadow: 10px 10px 5px;
     text-align: center;
     padding: 80px 0;
     margin-top: 50px;
-    
+    margin-left: 10px;
+    border-radius: 3px;    
 }
 
 .box .title {
